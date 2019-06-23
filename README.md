@@ -4,18 +4,22 @@ This is an unofficial collection of awesome Hubitat stuff. Pull requests welcome
 
 ## devices
 
+List of compatible devices - https://docs.hubitat.com/index.php?title=List_of_Compatible_Devices
+
+## devices - third party drivers
+
 {brand}-{model}-{protocol}
 
-### audio - devices
+### audio - devices - third party drivers
 
-### door locks - devices
+### door locks - devices - third party drivers
 
-### sensors - devices
+### sensors - devices - third party drivers
 
-#### audio - sensors - devices
-#### motion - sensors - devices
-#### door/window - sensors - devices
-#### temperature - sensors - devices
+#### audio - sensors - devices - third party drivers
+#### motion - sensors - devices - third party drivers
+#### door/window - sensors - devices - third party drivers
+#### temperature - sensors - devices - third party drivers
 
 ### plumbing - devices
 
@@ -26,4 +30,4 @@ This is an unofficial collection of awesome Hubitat stuff. Pull requests welcome
 ## drivers code
 
 ## third-party integrations
-
+- SharpTools - https://sharptools.io
